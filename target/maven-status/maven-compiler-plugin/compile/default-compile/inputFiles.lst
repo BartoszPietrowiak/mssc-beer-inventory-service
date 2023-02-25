@@ -1,0 +1,9 @@
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInventoryBootstrap.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/home/users/bpietrowiak/Spring_microservices/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
